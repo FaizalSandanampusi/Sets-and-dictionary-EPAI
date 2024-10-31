@@ -1,3 +1,5 @@
+![CI/CD](https://github.com/FaizalSandanampusi/Sets-and-dictionary-EPAI/workflows/Python%20Tests/badge.svg?label=passingcolor=greentimestamp=1730373035)
+
 
 # Dictionary Utilities
 
